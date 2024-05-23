@@ -7,3 +7,6 @@ Son zamanlarda birkaç kere gördüm ve Gerçek zamanlı animasyonlarla benzer b
 ## Örnek resim:
 <div align="center"><a href="https://imgflip.com/gif/2pixk6"><img src="https://i.imgflip.com/2pixk6.gif" title="Animated-login-form-Avatar"/></a></div>
 
+
+## Instagramdan Takip et!
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/kodlama.dili/)
